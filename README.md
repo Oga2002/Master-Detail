@@ -30,7 +30,7 @@
 
 ## Зависимости
 
-- Python 3.x
+- Python 3
 - Tkinter
 
 ## Автор
